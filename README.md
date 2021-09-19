@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Liam-Griffiths
-- 👀 I’m interested in ... Serverless Development.
-- 🌱 I’m currently learning ... React and AI.
 - 📫 How to reach me ... liam@liam-griffiths.co.uk
 
 <!---
